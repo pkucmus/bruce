@@ -198,6 +198,6 @@
              hosts are recommended to guard against the case where a single
              specified host is down.
           -->
-        <broker host="kafkahost" port="9092" />
+        <broker host="kafka" port="9092" />
     </initialBrokers>
 </bruceConfig>
